@@ -26,5 +26,5 @@ Tenho interesse em aplicações práticas de IA, como detecção de padrões, pr
 ## Contato
 
 📧 gustavohenriquetorres@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/seu-link)
+🔗 [LinkedIn]([https://linkedin.com/in/seu-link](https://www.linkedin.com/in/guhenriquetorres/))
 
