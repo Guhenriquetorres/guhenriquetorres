@@ -28,13 +28,6 @@ Tenho interesse em aplicações práticas de IA, como detecção de padrões, pr
 📧 gustavohenriquetorres@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/guhenriquetorres/)
 ---
-
-## 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhenriquetorres&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guhenriquetorres&show_icons=true&hide=prs&theme=default)
-
----
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
@@ -48,3 +41,9 @@ Tenho interesse em aplicações práticas de IA, como detecção de padrões, pr
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
 
 ---
+## 📊 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhenriquetorres&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guhenriquetorres&show_icons=true&hide=prs&theme=default)
+
+
