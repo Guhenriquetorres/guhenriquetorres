@@ -1,40 +1,30 @@
-Olá! Me chamo Gustavo Henrique Torres e este é meu espaço dedicado aos projetos mais relevantes da minha trajetória como cientista de dados, desenvolvedor e entusiasta em inteligência artificial.
+# Gustavo Henrique Torres
 
-## 🚀 Sobre Mim
+Repositório dedicado aos meus principais projetos em Ciência de Dados, Machine Learning e automações com Python.
 
-Sou um profissional multidisciplinar com experiência prática em:
+## Sobre
 
-- 📊 Ciência de Dados aplicada a **séries temporais**, com foco em **mercado financeiro e comportamento de preços do Bitcoin**.
-- 🤖 Modelagem com **Redes Neurais Recorrentes (LSTM)**, **GANs**, e outros modelos de Deep Learning.
-- 🧩 Integração entre **API RESTful com Django**, modelos de Machine Learning e **front-ends em HTML** ou Flutter.
-- 🧪 Desenvolvimento de pipelines ETL robustos e scripts de automação para extração, transformação e visualização de dados.
-- 🌐 Exploração de **dados de liquidez de mercado**, mapas de calor, análise de dominância de criptoativos, e correlações com índices como S&P 500.
+Sou Cientista de Dados com foco em séries temporais, especialmente no mercado financeiro. Trabalho com modelos preditivos como LSTM, automações com Python, APIs em Django e visualizações web.
 
-## 🧠 Tecnologias & Ferramentas
+Tenho interesse em aplicações práticas de IA, como detecção de padrões, previsões e integração entre backend e visualização de dados.
 
-- **Python**: Pandas, NumPy, Scikit-Learn, TensorFlow/Keras, yFinance, Requests
-- **Web**: Django, HTML/CSS, Flask, Webhooks
-- **Visualização**: Plotly, Matplotlib, Seaborn
-- **Mobile/Web**: Flutter + CLI
-- **Versionamento**: Git & GitHub
-- **Automação & Deployment**: Google Cloud, Virtual Envs, SQLite/PostgreSQL
+## Principais Tecnologias
 
-## 🌟 Destaques
+- Python (Pandas, Scikit-learn, Keras, yFinance)
+- Django & Flask (API REST)
+- Visualização: Plotly, Seaborn
+- Flutter (web/mobile)
+- SQLite, PostgreSQL
+- Google Cloud & Git
 
-- 🔍 **[RNC-BTC](https://github.com/seu-usuario/RNC-BTC)**: Um modelo LSTM para previsão de preços do Bitcoin com backend em Django e visualização interativa.
-- 📁 **ETL com PDFs e APIs**: Extração e estruturação de dados a partir de fontes não convencionais (PDFs, painéis BI, etc).
-- 📅 **Dashboards temporais**: Organização de bases recorrentes e criação de datamarts em Excel, com automação em Python.
+## Projetos em Destaque
 
-## 📚 Em aprendizado contínuo
+- **RNC-BTC**: Previsão do preço do Bitcoin com LSTM e interface em Django.
+- **ETL Financeiro**: Extração de dados de painéis e PDFs.
+- **Automação de Datamarts**: Scripts que transformam dados recorrentes em dashboards mensais.
 
-Atualmente estudando:
+## Contato
 
-- LangChain + RAG com múltiplas fontes de dados
-- GANs aplicados a séries temporais
-- Estruturação de sistemas autônomos com CrewAI para criação de conteúdo
+📧 gustavohenriquetorres@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/seu-link)
 
-## 💬 Contato
-
-Fique à vontade para explorar os projetos, contribuir ou trocar ideias!  
-📧 Email: gustavohenriquetorres@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/seu-link](https://linkedin.com/in/seu-link)
